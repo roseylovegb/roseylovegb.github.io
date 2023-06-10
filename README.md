@@ -12,7 +12,6 @@
 
 + Lab 5: Working with Postman and using GET routes 
 
-[hhhh](https://canvas.uoregon.edu/courses/218245/pages/lab-4)
 
 + Lab 6: Joining Github and practicee using Classes
 
@@ -23,9 +22,9 @@
 + Lab 9: Working through github account and learning course
 
 
-#Pojects
+#Projects
 
-+ [Project 1](https://roseylovegb.github.io/cit281-p1/): Practice using CLI and VSCode 
++ [Project 1](https://roseylovegb.github.io/cit281-p1/): Practice using CLI and VSCode [Repository](https://github.com/roseylovegb/cit281-p1.git)
 
 + Project 2: Gain experience writing and executing node web seerver NNode.js, and refactoring JavaScript code
 
