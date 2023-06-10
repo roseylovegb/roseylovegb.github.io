@@ -8,7 +8,7 @@
 
 + Lab 3: Practive using Javascript code and modernizing it with modern syntace, using code compatiblee with Node.js and using module.exports
 
-+Lab 4: Working with Fstify Node.js and learning to using git/mkaing commits
++ Lab 4: Working with Fstify Node.js and learning to using git/mkaing commits
 
 + Lab 5: Working with Postman and using GET routes 
 
