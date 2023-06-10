@@ -25,7 +25,7 @@
 
 #Pojects
 
-+ Project 1: Practice using CLI and VSCode
++ [Project 1](https://roseylovegb.github.io/cit281-p1/): Practice using CLI and VSCode 
 
 + Project 2: Gain experience writing and executing node web seerver NNode.js, and refactoring JavaScript code
 
