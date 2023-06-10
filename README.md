@@ -27,6 +27,8 @@
 + [Project 1](https://roseylovegb.github.io/cit281-p1/): Practice using CLI and VSCode [Repository](https://github.com/roseylovegb/cit281-p1.git)
 
 + Project 2: Gain experience writing and executing node web seerver NNode.js, and refactoring JavaScript code
++ https://roseylovegb.github.io/cit281-p2/
++ https://github.com/roseylovegb/cit281-p2.git repository
 
 + Project 3: Uing Fastify GET verb, routes, and query parameters. Using code modules and refactoring using modern JavaScript syntax
 
