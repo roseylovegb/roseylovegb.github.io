@@ -13,9 +13,9 @@
 + [Lab 5](https://roseylovegb.github.io/cit281-lab5/)): Working with Postman and using GET routes [Repository](https://github.com/roseylovegb/cit281-lab5.git) 
 
 
-+ Lab 6: Joining Github and practicee using Classes
++ [Lab 6](https://roseylovegb.github.io/cit281-lab6/): Joining Github and practicee using Classes [Repository](https://github.com/roseylovegb/cit281-lab6.git)
 
-+ Lab 7: Creatung Github Organizations and repositories
++ [Lab 7](https://roseylovegb.github.io/cit281-lab7/): Creatung Github Organizations and repositories [Repository](https://github.com/roseylovegb/cit281-lab7.git)
 
 + Lab 8: Using Node-fetch and fastify as well as Fetch to geet JSONPlaceeholder data
 
@@ -34,7 +34,7 @@
 
 + Project 5: Working with debugginh Node.js and using classes and constructors and methods. Working with objects and arrays. (no link because I did not do the extra credit project)
 
-+ Project 6[Project 6](https://roseylovegb.github.io/cit281-p6/): Working with classes and inheritance, and JavaSscript syntax [Repository](https://github.com/roseylovegb/cit281-p6.git)
++ [Project 6](https://roseylovegb.github.io/cit281-p6/): Working with classes and inheritance, and JavaSscript syntax [Repository](https://github.com/roseylovegb/cit281-p6.git)
 
 + [Project 7](https://roseylovegb.github.io/cit281-p7/): Using Github Pages, and working with Github repos [Repository](https://github.com/roseylovegb/cit281-p7.git)
 
