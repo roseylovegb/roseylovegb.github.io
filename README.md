@@ -10,7 +10,7 @@
 
 + [Lab 4](https://github.com/roseylovegb/cit281-lab4.git): Working with Fstify Node.js and learning to using git/mkaing commits [Repository](https://roseylovegb.github.io/cit281-lab4/)
 
-+ [Lab 5](https://roseylovegb.github.io/cit281-lab5/)): Working with Postman and using GET routes [Repository](https://github.com/roseylovegb/cit281-lab5.git) 
++ [Lab 5](https://roseylovegb.github.io/cit281-lab5/): Working with Postman and using GET routes [Repository](https://github.com/roseylovegb/cit281-lab5.git) 
 
 
 + [Lab 6](https://roseylovegb.github.io/cit281-lab6/): Joining Github and practicee using Classes [Repository](https://github.com/roseylovegb/cit281-lab6.git)
