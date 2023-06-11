@@ -19,7 +19,7 @@
 
 + [Lab 8](https://roseylovegb.github.io/cit281-lab8/): Using Node-fetch and fastify as well as Fetch to geet JSONPlaceeholder data [Repository](https://github.com/roseylovegb/cit281-lab8.git)
 
-+ Lab 9: Working through github account and learning course
++ [Lab 9](https://roseylovegb.github.io/cit281-lab9/): Working through github account and learning course [Repository](https://github.com/roseylovegb/cit281-lab9.git)
 
 
 #Projects
