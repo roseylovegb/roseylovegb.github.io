@@ -30,12 +30,21 @@
 + https://roseylovegb.github.io/cit281-p2/
 + https://github.com/roseylovegb/cit281-p2.git repository
 
-+ Project 3: Uing Fastify GET verb, routes, and query parameters. Using code modules and refactoring using modern JavaScript syntax
++ Project 3: Using Fastify GET verb, routes, and query parameters. Using code modules and refactoring using modern JavaScript syntax
++  page https://roseylovegb.github.io/cit281-p3/
++  https://github.com/roseylovegb/cit281-p3.git repo
+
 
 + Project 4: Using Node.js REST API server using VSCode. Using POST, PUT, and DELETE with fastify
++ https://roseylovegb.github.io/cit281-p4/ page
++ https://github.com/roseylovegb/cit281-p4.git repo
 
 + Project 5: Working with debugginh Node.js and using classes and constructors and methods. Working with objects and arrays. (no link because I did not do the extra credit project)
 
 + Project 6: Working with classes and inheritance, and JavaSscript syntax
++ https://roseylovegb.github.io/cit281-p6/ page
++ https://github.com/roseylovegb/cit281-p6.git repo
 
 + Project 7: Using Github Pages, and working with Github repos
++ https://github.com/roseylovegb/cit281-p7.git repo
++ https://roseylovegb.github.io/cit281-p7/ page
