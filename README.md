@@ -2,15 +2,15 @@
 
 #Labs
 
-+ Lab 1: Setting up all the tools needed for this couse, practing and creating our first files
++ [Lab 1](https://roseylovegb.github.io/cit281-lab1/): Setting up all the tools needed for this couse, practing and creating our first files [Repository](https://github.com/roseylovegb/cit281-lab1.git ))
 
-+ Lab 2: Working with Command Line Interface, setting up git, and practicing with reepositories
++ Lab 2 [Lab 2](https://github.com/roseylovegb/cit281-lab2.git): Working with Command Line Interface, setting up git, and practicing with reepositories [Repository](https://github.com/roseylovegb/cit281-lab2.git)
 
-+ Lab 3: Practive using Javascript code and modernizing it with modern syntace, using code compatiblee with Node.js and using module.exports
++ [Lab 3](https://roseylovegb.github.io/cit281-lab3/): Practice using Javascript code and modernizing it with modern syntax, using code compatible with Node.js and using module.exports [Repository](https://github.com/roseylovegb/cit281-lab3.git)
 
-+ Lab 4: Working with Fstify Node.js and learning to using git/mkaing commits
++ [Lab 4](https://github.com/roseylovegb/cit281-lab4.git): Working with Fstify Node.js and learning to using git/mkaing commits [Repository](https://roseylovegb.github.io/cit281-lab4/)
 
-+ Lab 5: Working with Postman and using GET routes 
++ [Lab 5](https://roseylovegb.github.io/cit281-lab5/)): Working with Postman and using GET routes [Repository](https://github.com/roseylovegb/cit281-lab5.git) 
 
 
 + Lab 6: Joining Github and practicee using Classes
@@ -26,25 +26,15 @@
 
 + [Project 1](https://roseylovegb.github.io/cit281-p1/): Practice using CLI and VSCode [Repository](https://github.com/roseylovegb/cit281-p1.git)
 
-+ Project 2: Gain experience writing and executing node web seerver NNode.js, and refactoring JavaScript code
-+ https://roseylovegb.github.io/cit281-p2/
-+ https://github.com/roseylovegb/cit281-p2.git repository
++ [Project 2](https://roseylovegb.github.io/cit281-p2/): Gain experience writing and executing node web seerver Node.js, and refactoring JavaScript code [Repository](https://github.com/roseylovegb/cit281-p2.git)
 
-+ Project 3: Using Fastify GET verb, routes, and query parameters. Using code modules and refactoring using modern JavaScript syntax
-+  page https://roseylovegb.github.io/cit281-p3/
-+  https://github.com/roseylovegb/cit281-p3.git repo
++ [Project 3](https://roseylovegb.github.io/cit281-p3/): Using Fastify GET verb, routes, and query parameters. Using code modules and refactoring using modern JavaScript syntax [Repository](https://github.com/roseylovegb/cit281-p3.git)
 
-
-+ Project 4: Using Node.js REST API server using VSCode. Using POST, PUT, and DELETE with fastify
-+ https://roseylovegb.github.io/cit281-p4/ page
-+ https://github.com/roseylovegb/cit281-p4.git repo
++ [Project 4](https://roseylovegb.github.io/cit281-p4/): Using Node.js REST API server using VSCode. Using POST, PUT, and DELETE with fastify [Repository](https://github.com/roseylovegb/cit281-p4.git)
 
 + Project 5: Working with debugginh Node.js and using classes and constructors and methods. Working with objects and arrays. (no link because I did not do the extra credit project)
 
-+ Project 6: Working with classes and inheritance, and JavaSscript syntax
-+ https://roseylovegb.github.io/cit281-p6/ page
-+ https://github.com/roseylovegb/cit281-p6.git repo
++ Project 6[Project 6](https://roseylovegb.github.io/cit281-p6/): Working with classes and inheritance, and JavaSscript syntax [Repository](https://github.com/roseylovegb/cit281-p6.git)
 
-+ Project 7: Using Github Pages, and working with Github repos
-+ https://github.com/roseylovegb/cit281-p7.git repo
-+ https://roseylovegb.github.io/cit281-p7/ page1
++ [Project 7](https://roseylovegb.github.io/cit281-p7/): Using Github Pages, and working with Github repos [Repository](https://github.com/roseylovegb/cit281-p7.git)
+
