@@ -47,4 +47,4 @@
 
 + Project 7: Using Github Pages, and working with Github repos
 + https://github.com/roseylovegb/cit281-p7.git repo
-+ https://roseylovegb.github.io/cit281-p7/ page
++ https://roseylovegb.github.io/cit281-p7/ page1
