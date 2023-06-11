@@ -17,7 +17,7 @@
 
 + [Lab 7](https://roseylovegb.github.io/cit281-lab7/): Creatung Github Organizations and repositories [Repository](https://github.com/roseylovegb/cit281-lab7.git)
 
-+ Lab 8: Using Node-fetch and fastify as well as Fetch to geet JSONPlaceeholder data
++ [Lab 8](https://roseylovegb.github.io/cit281-lab8/): Using Node-fetch and fastify as well as Fetch to geet JSONPlaceeholder data [Repository](https://github.com/roseylovegb/cit281-lab8.git)
 
 + Lab 9: Working through github account and learning course
 
