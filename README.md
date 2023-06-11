@@ -4,7 +4,7 @@
 
 + [Lab 1](https://roseylovegb.github.io/cit281-lab1/): Setting up all the tools needed for this couse, practing and creating our first files [Repository](https://github.com/roseylovegb/cit281-lab1.git )
 
-+ Lab 2 [Lab 2](https://github.com/roseylovegb/cit281-lab2.git): Working with Command Line Interface, setting up git, and practicing with reepositories [Repository](https://github.com/roseylovegb/cit281-lab2.git)
++ [Lab 2](https://github.com/roseylovegb/cit281-lab2.git): Working with Command Line Interface, setting up git, and practicing with reepositories [Repository](https://github.com/roseylovegb/cit281-lab2.git)
 
 + [Lab 3](https://roseylovegb.github.io/cit281-lab3/): Practice using Javascript code and modernizing it with modern syntax, using code compatible with Node.js and using module.exports [Repository](https://github.com/roseylovegb/cit281-lab3.git)
 
